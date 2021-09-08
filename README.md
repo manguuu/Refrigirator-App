@@ -30,3 +30,4 @@ flutter run --release
 _cf) 애플 개발자 계정으로 xcode를 로그인해야 설치가 가능합니다._
 
 ---
+[개발 후기](https://mangu.tistory.com/74)
