@@ -27,7 +27,7 @@ flutter run --release
 ```
 <img width="944" alt="스크린샷 2021-09-07 오후 2 37 35" src="https://user-images.githubusercontent.com/66214527/132290086-1a8418da-7e06-49a7-a57e-bb819d84f9c3.png">
 
-_cf) 애플 개발자 계정으로 xcode를 로그인해야 설치가 가능합니다._
+_cf) 애플 개발자 계정으로 xcode를 로그인해야 설치가 가능하고 일주일이 지나면 사용할 수 없._
 
 ---
 [개발 후기](https://mangu.tistory.com/74)
