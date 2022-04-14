@@ -1,4 +1,4 @@
-# Expiration date management application based on deep learning
+# 유통기한 일정 관리 어플
 
 ![Running](https://user-images.githubusercontent.com/66214527/132292930-b05cfdb6-917c-4802-a74f-ff7a89d5db01.GIF)
 
