@@ -10,7 +10,7 @@
 
 ---
 ## Android
-- [apk](https://github.com/manguuu/Refrigirator-App/blob/master/app-release.apk)
+- [APK](https://github.com/manguuu/Refrigirator-App/blob/master/app-release.apk)
 Download the APK file and you can use it.
 ---
 ## IOS
